@@ -82,3 +82,10 @@ Jak ji zapnout:
 
 Původně jsem si myslel, že si toto renderování budu potřebovat zapnout ručně a tak jsem došel k tomuto přehledu, kde je popsané, jak je vykreslování definované:
 > https://osmand.net/help/docs/Custom_Rendering_How-To.htm
+
+
+## Často navštěvované
+
+* https://wiki.openstreetmap.org/wiki/Cs:Key:tracktype
+* https://wiki.openstreetmap.org/wiki/Cs:Tag:highway%3Dpath
+* https://wiki.openstreetmap.org/wiki/Cs:Chodn%C3%ADky
